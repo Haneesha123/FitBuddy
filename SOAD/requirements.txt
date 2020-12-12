@@ -74,12 +74,12 @@ pycryptodome==3.9.8
 Pygments==2.5.2
 pylint==2.5.3
 pyparsing==2.4.6
+pypiwin32==223
 pyrsistent==0.15.7
 pytest==6.1.1
 python-dateutil==2.8.1
 python-http-client==3.2.7
 pytz==2020.1
-pywin32==227
 pywinpty==0.5.7
 pyzmq==19.0.0
 requests==2.24.0
