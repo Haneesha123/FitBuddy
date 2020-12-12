@@ -1,1 +1,1 @@
-web: gunicorn SOAD.wsgi
+web: gunicorn soad.wsgi
